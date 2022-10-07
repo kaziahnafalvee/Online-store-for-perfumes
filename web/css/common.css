@@ -1,0 +1,49 @@
+#footer{
+    min-height: 100px!important;
+    background-color: #6A5ACD;
+    margin-top:70vh;
+    padding: 20px;
+}
+
+.signup row{
+    margin-top: 10px!important;
+    border-bottom: thin solid #6A5ACD!important;
+    padding: 10px;
+}
+.signup>h1{
+    text-align: center;
+    color: #6A5ACD;
+}
+.signup label{
+    color: #6A5ACD;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
